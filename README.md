@@ -66,3 +66,7 @@ for doc in &selection.documents {
 ## License
 
 Apache-2.0
+
+---
+
+"Context Engine" is a trademark of Context Engine Contributors. The software is open source under the [MIT License](LICENSE). The trademark is not licensed for use by third parties to market competing products or services without prior written permission.
